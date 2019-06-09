@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+        "emitDecoratorMetadata": true,
+        "experimentalDecorators": true,
+        "target": "es6", 
+        "outDir": "./dist",
+        "declaration": true,
+        "sourceMap": true,
+        "moduleResolution": "node" 
+      },
+      "includes": [
+          "./src/**/*.ts"
+      ]
+}
